@@ -21,7 +21,7 @@
                                         //   CHAPTER 2
 
 //TASK 1
-var username;
+//var username;
 
 //TASK 2
 // var myName = "Naima Ghulam Muhammad";
