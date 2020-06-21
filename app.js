@@ -1011,8 +1011,8 @@
 // document.write("<h2> 100 years back, It was "+d)
 
 //TASK 13
-var inpage = +prompt("Enter Your age")
-var d = new Date()
-var dyrs = d.getFullYear()
-var yrs = dyrs - inpage
-document.write("<h2>Your age is "+inpage+"<br>Your birth year is "+yrs)
+// var inpage = +prompt("Enter Your age")
+// var d = new Date()
+// var dyrs = d.getFullYear()
+// var yrs = dyrs - inpage
+// document.write("<h2>Your age is "+inpage+"<br>Your birth year is "+yrs)
